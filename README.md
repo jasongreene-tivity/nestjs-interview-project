@@ -14,7 +14,7 @@
 - task service that will handle all repository connections
 
 **Notes:**
-- task.entity arleady created and setup
+- task.entity already created and setup
 - basic create and update dtos have already been setup
 
 # Business Rules
